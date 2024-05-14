@@ -13,6 +13,14 @@
 ## Project overview
 This data analysis aims to provide detailed review of the sales performance of two stores over the past year, by analyzing various aspects of the sales data, to identify trends, make data-driven recommendations and give a precise view of different aspects of the overall store's performance.
 
+
+[SALES_DASHBOARD 2023.xlsx](https://github.com/CHINEDU-JERRY/SALES-DASHBOARD-2023/files/15303343/SALES_DASHBOARD.2023.xlsx)
+
+
+
+
+
+
 ### Data sources
 
 Sales Data: The primary dataset used for this analysis is the "Sales data.xlsx", containing detailed information about each sales made by each store.
